@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.graph_objects as go
 
 from database import SessionLocal, engine, Base
-from models import User, PatientProfile, SensorStream
+from models_root import User, PatientProfile, SensorStream
 from util.auth import authenticate
 from models.model import TwinModel
 
