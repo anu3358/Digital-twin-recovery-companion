@@ -1,0 +1,43 @@
+{
+  "patients": [
+    {
+      "email": "patient1@example.com",
+      "full_name": "Anita Sharma",
+      "role": "patient",
+      "password": "changeme",
+      "age": 54,
+      "sex": "F",
+      "history": "Post-ACL surgery"
+    },
+    {
+      "email": "patient2@example.com",
+      "full_name": "Rahul Mehra",
+      "role": "patient",
+      "password": "changeme",
+      "age": 67,
+      "sex": "M",
+      "history": "Hip replacement"
+    },
+    {
+      "email": "patient3@example.com",
+      "full_name": "Maya Kapoor",
+      "role": "patient",
+      "password": "changeme",
+      "age": 45,
+      "sex": "F",
+      "history": "Stroke rehab"
+    }
+  ],
+  "clinician": {
+    "email": "clinician1@example.com",
+    "full_name": "Dr. Kavita Rao",
+    "role": "clinician",
+    "password": "changeme"
+  },
+  "admin": {
+    "email": "admin@dtc.local",
+    "full_name": "Administrator",
+    "role": "admin",
+    "password": "changeme"
+  }
+}

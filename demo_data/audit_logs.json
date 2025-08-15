@@ -1,0 +1,50 @@
+[
+  {
+    "user_ref": 1,
+    "action": "consent_signed",
+    "metadata": {
+      "consent": "yes"
+    },
+    "timestamp": "2025-07-16"
+  },
+  {
+    "user_ref": "clinician1@example.com",
+    "action": "assigned_to_clinician",
+    "metadata": {
+      "clinician": "clinician1@example.com"
+    },
+    "timestamp": "2025-07-17"
+  },
+  {
+    "user_ref": 2,
+    "action": "consent_signed",
+    "metadata": {
+      "consent": "yes"
+    },
+    "timestamp": "2025-07-16"
+  },
+  {
+    "user_ref": "clinician1@example.com",
+    "action": "assigned_to_clinician",
+    "metadata": {
+      "clinician": "clinician1@example.com"
+    },
+    "timestamp": "2025-07-17"
+  },
+  {
+    "user_ref": 3,
+    "action": "consent_signed",
+    "metadata": {
+      "consent": "yes"
+    },
+    "timestamp": "2025-07-16"
+  },
+  {
+    "user_ref": "clinician1@example.com",
+    "action": "assigned_to_clinician",
+    "metadata": {
+      "clinician": "clinician1@example.com"
+    },
+    "timestamp": "2025-07-17"
+  }
+]

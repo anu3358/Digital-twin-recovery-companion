@@ -1,0 +1,1082 @@
+[
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-17",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.437,
+      "emg": 0.21,
+      "hr": 64,
+      "spo2": 96.7,
+      "step_count": 192
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-18",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.451,
+      "emg": 0.174,
+      "hr": 73,
+      "spo2": 96.8,
+      "step_count": 242
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-19",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.471,
+      "emg": 0.168,
+      "hr": 74,
+      "spo2": 96.8,
+      "step_count": 211
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-20",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.412,
+      "emg": 0.193,
+      "hr": 71,
+      "spo2": 96.2,
+      "step_count": 284
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-21",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.516,
+      "emg": 0.181,
+      "hr": 68,
+      "spo2": 95.8,
+      "step_count": 309
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-22",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.533,
+      "emg": 0.211,
+      "hr": 73,
+      "spo2": 96.8,
+      "step_count": 316
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-23",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.505,
+      "emg": 0.208,
+      "hr": 75,
+      "spo2": 96.3,
+      "step_count": 304
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-24",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.435,
+      "emg": 0.242,
+      "hr": 64,
+      "spo2": 96.5,
+      "step_count": 360
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-25",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.512,
+      "emg": 0.213,
+      "hr": 63,
+      "spo2": 96.0,
+      "step_count": 370
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-26",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.452,
+      "emg": 0.222,
+      "hr": 67,
+      "spo2": 96.2,
+      "step_count": 387
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-27",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.399,
+      "emg": 0.184,
+      "hr": 69,
+      "spo2": 96.8,
+      "step_count": 375
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-28",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.41,
+      "emg": 0.246,
+      "hr": 65,
+      "spo2": 95.2,
+      "step_count": 437
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-29",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.527,
+      "emg": 0.262,
+      "hr": 66,
+      "spo2": 95.9,
+      "step_count": 451
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-30",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.475,
+      "emg": 0.239,
+      "hr": 69,
+      "spo2": 96.8,
+      "step_count": 487
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-07-31",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.427,
+      "emg": 0.178,
+      "hr": 69,
+      "spo2": 96.0,
+      "step_count": 454
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-01",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.491,
+      "emg": 0.229,
+      "hr": 65,
+      "spo2": 96.8,
+      "step_count": 529
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-02",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.432,
+      "emg": 0.24,
+      "hr": 73,
+      "spo2": 97.0,
+      "step_count": 542
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-03",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.515,
+      "emg": 0.224,
+      "hr": 72,
+      "spo2": 95.5,
+      "step_count": 512
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-04",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.507,
+      "emg": 0.256,
+      "hr": 71,
+      "spo2": 95.9,
+      "step_count": 550
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-05",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.495,
+      "emg": 0.205,
+      "hr": 71,
+      "spo2": 96.8,
+      "step_count": 583
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-06",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.447,
+      "emg": 0.211,
+      "hr": 70,
+      "spo2": 96.1,
+      "step_count": 617
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-07",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.541,
+      "emg": 0.247,
+      "hr": 75,
+      "spo2": 96.1,
+      "step_count": 633
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-08",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.556,
+      "emg": 0.222,
+      "hr": 71,
+      "spo2": 95.1,
+      "step_count": 647
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-09",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.582,
+      "emg": 0.245,
+      "hr": 63,
+      "spo2": 95.1,
+      "step_count": 672
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-10",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.532,
+      "emg": 0.176,
+      "hr": 70,
+      "spo2": 96.4,
+      "step_count": 670
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-11",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.453,
+      "emg": 0.255,
+      "hr": 73,
+      "spo2": 96.7,
+      "step_count": 706
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-12",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.438,
+      "emg": 0.241,
+      "hr": 72,
+      "spo2": 96.5,
+      "step_count": 737
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-13",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.591,
+      "emg": 0.202,
+      "hr": 69,
+      "spo2": 96.0,
+      "step_count": 754
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-14",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.441,
+      "emg": 0.271,
+      "hr": 62,
+      "spo2": 95.3,
+      "step_count": 783
+    }
+  },
+  {
+    "patient_ref": 1,
+    "timestamp": "2025-08-15",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.446,
+      "emg": 0.278,
+      "hr": 62,
+      "spo2": 96.2,
+      "step_count": 786
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-17",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.517,
+      "emg": 0.204,
+      "hr": 71,
+      "spo2": 96.0,
+      "step_count": 219
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-18",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.363,
+      "emg": 0.181,
+      "hr": 77,
+      "spo2": 96.1,
+      "step_count": 217
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-19",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.42,
+      "emg": 0.232,
+      "hr": 76,
+      "spo2": 95.5,
+      "step_count": 266
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-20",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.491,
+      "emg": 0.168,
+      "hr": 65,
+      "spo2": 95.6,
+      "step_count": 274
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-21",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.377,
+      "emg": 0.164,
+      "hr": 73,
+      "spo2": 96.9,
+      "step_count": 285
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-22",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.504,
+      "emg": 0.252,
+      "hr": 65,
+      "spo2": 96.4,
+      "step_count": 309
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-23",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.53,
+      "emg": 0.233,
+      "hr": 77,
+      "spo2": 96.6,
+      "step_count": 319
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-24",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.458,
+      "emg": 0.17,
+      "hr": 67,
+      "spo2": 95.6,
+      "step_count": 334
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-25",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.498,
+      "emg": 0.187,
+      "hr": 71,
+      "spo2": 95.9,
+      "step_count": 378
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-26",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.459,
+      "emg": 0.202,
+      "hr": 73,
+      "spo2": 95.5,
+      "step_count": 407
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-27",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.425,
+      "emg": 0.166,
+      "hr": 72,
+      "spo2": 95.8,
+      "step_count": 370
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-28",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.463,
+      "emg": 0.161,
+      "hr": 67,
+      "spo2": 95.7,
+      "step_count": 412
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-29",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.391,
+      "emg": 0.223,
+      "hr": 66,
+      "spo2": 96.2,
+      "step_count": 427
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-30",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.53,
+      "emg": 0.253,
+      "hr": 73,
+      "spo2": 96.7,
+      "step_count": 473
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-07-31",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.409,
+      "emg": 0.204,
+      "hr": 78,
+      "spo2": 95.4,
+      "step_count": 474
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-01",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.531,
+      "emg": 0.23,
+      "hr": 67,
+      "spo2": 96.2,
+      "step_count": 489
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-02",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.454,
+      "emg": 0.2,
+      "hr": 69,
+      "spo2": 96.9,
+      "step_count": 538
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-03",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.552,
+      "emg": 0.206,
+      "hr": 65,
+      "spo2": 96.5,
+      "step_count": 515
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-04",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.546,
+      "emg": 0.191,
+      "hr": 70,
+      "spo2": 96.3,
+      "step_count": 552
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-05",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.473,
+      "emg": 0.2,
+      "hr": 78,
+      "spo2": 95.3,
+      "step_count": 552
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-06",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.464,
+      "emg": 0.231,
+      "hr": 69,
+      "spo2": 95.1,
+      "step_count": 606
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-07",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.58,
+      "emg": 0.265,
+      "hr": 73,
+      "spo2": 96.6,
+      "step_count": 625
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-08",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.466,
+      "emg": 0.233,
+      "hr": 74,
+      "spo2": 96.9,
+      "step_count": 651
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-09",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.447,
+      "emg": 0.261,
+      "hr": 77,
+      "spo2": 95.4,
+      "step_count": 659
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-10",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.536,
+      "emg": 0.269,
+      "hr": 78,
+      "spo2": 96.1,
+      "step_count": 671
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-11",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.595,
+      "emg": 0.184,
+      "hr": 67,
+      "spo2": 96.7,
+      "step_count": 685
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-12",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.463,
+      "emg": 0.259,
+      "hr": 70,
+      "spo2": 96.6,
+      "step_count": 706
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-13",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.513,
+      "emg": 0.264,
+      "hr": 80,
+      "spo2": 96.4,
+      "step_count": 743
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-14",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.521,
+      "emg": 0.266,
+      "hr": 65,
+      "spo2": 96.1,
+      "step_count": 788
+    }
+  },
+  {
+    "patient_ref": 2,
+    "timestamp": "2025-08-15",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.492,
+      "emg": 0.23,
+      "hr": 74,
+      "spo2": 95.0,
+      "step_count": 790
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-17",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.363,
+      "emg": 0.197,
+      "hr": 62,
+      "spo2": 96.4,
+      "step_count": 226
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-18",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.495,
+      "emg": 0.237,
+      "hr": 67,
+      "spo2": 95.3,
+      "step_count": 229
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-19",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.46,
+      "emg": 0.188,
+      "hr": 64,
+      "spo2": 95.2,
+      "step_count": 226
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-20",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.378,
+      "emg": 0.161,
+      "hr": 75,
+      "spo2": 95.1,
+      "step_count": 252
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-21",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.47,
+      "emg": 0.206,
+      "hr": 73,
+      "spo2": 95.1,
+      "step_count": 287
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-22",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.482,
+      "emg": 0.205,
+      "hr": 76,
+      "spo2": 96.5,
+      "step_count": 310
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-23",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.5,
+      "emg": 0.249,
+      "hr": 77,
+      "spo2": 96.8,
+      "step_count": 323
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-24",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.469,
+      "emg": 0.232,
+      "hr": 75,
+      "spo2": 96.5,
+      "step_count": 338
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-25",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.468,
+      "emg": 0.24,
+      "hr": 75,
+      "spo2": 95.0,
+      "step_count": 389
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-26",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.508,
+      "emg": 0.207,
+      "hr": 78,
+      "spo2": 96.7,
+      "step_count": 374
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-27",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.545,
+      "emg": 0.247,
+      "hr": 70,
+      "spo2": 95.9,
+      "step_count": 392
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-28",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.452,
+      "emg": 0.223,
+      "hr": 63,
+      "spo2": 95.1,
+      "step_count": 440
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-29",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.482,
+      "emg": 0.195,
+      "hr": 73,
+      "spo2": 95.5,
+      "step_count": 454
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-30",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.465,
+      "emg": 0.177,
+      "hr": 75,
+      "spo2": 95.4,
+      "step_count": 434
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-07-31",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.404,
+      "emg": 0.188,
+      "hr": 73,
+      "spo2": 96.3,
+      "step_count": 481
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-01",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.41,
+      "emg": 0.192,
+      "hr": 72,
+      "spo2": 96.3,
+      "step_count": 513
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-02",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.481,
+      "emg": 0.253,
+      "hr": 75,
+      "spo2": 96.2,
+      "step_count": 506
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-03",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.529,
+      "emg": 0.249,
+      "hr": 70,
+      "spo2": 95.8,
+      "step_count": 547
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-04",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.415,
+      "emg": 0.237,
+      "hr": 69,
+      "spo2": 96.3,
+      "step_count": 550
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-05",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.502,
+      "emg": 0.197,
+      "hr": 66,
+      "spo2": 95.5,
+      "step_count": 582
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-06",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.573,
+      "emg": 0.264,
+      "hr": 69,
+      "spo2": 96.2,
+      "step_count": 627
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-07",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.494,
+      "emg": 0.207,
+      "hr": 77,
+      "spo2": 95.3,
+      "step_count": 618
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-08",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.466,
+      "emg": 0.183,
+      "hr": 69,
+      "spo2": 95.9,
+      "step_count": 626
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-09",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.442,
+      "emg": 0.198,
+      "hr": 65,
+      "spo2": 96.5,
+      "step_count": 632
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-10",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.432,
+      "emg": 0.214,
+      "hr": 66,
+      "spo2": 96.7,
+      "step_count": 658
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-11",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.523,
+      "emg": 0.217,
+      "hr": 65,
+      "spo2": 95.5,
+      "step_count": 671
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-12",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.555,
+      "emg": 0.247,
+      "hr": 69,
+      "spo2": 96.1,
+      "step_count": 716
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-13",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.58,
+      "emg": 0.265,
+      "hr": 78,
+      "spo2": 95.4,
+      "step_count": 721
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-14",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.48,
+      "emg": 0.277,
+      "hr": 80,
+      "spo2": 96.9,
+      "step_count": 748
+    }
+  },
+  {
+    "patient_ref": 3,
+    "timestamp": "2025-08-15",
+    "sensor_type": "daily_summary",
+    "payload": {
+      "accel_mean": 0.529,
+      "emg": 0.181,
+      "hr": 69,
+      "spo2": 95.6,
+      "step_count": 796
+    }
+  }
+]

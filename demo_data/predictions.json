@@ -1,0 +1,110 @@
+[
+  {
+    "patient_ref": 1,
+    "created_at": "2025-07-25",
+    "model_version": "demo-v1",
+    "result": {
+      "recovery_pct": 40.55,
+      "gait_speed": 1.206
+    }
+  },
+  {
+    "patient_ref": 1,
+    "created_at": "2025-08-01",
+    "model_version": "demo-v1",
+    "result": {
+      "recovery_pct": 42.81,
+      "gait_speed": 1.228
+    }
+  },
+  {
+    "patient_ref": 1,
+    "created_at": "2025-08-08",
+    "model_version": "demo-v1",
+    "result": {
+      "recovery_pct": 50.07,
+      "gait_speed": 1.301
+    }
+  },
+  {
+    "patient_ref": 1,
+    "created_at": "2025-08-15",
+    "model_version": "demo-v1",
+    "result": {
+      "recovery_pct": 54.43,
+      "gait_speed": 1.344
+    }
+  },
+  {
+    "patient_ref": 2,
+    "created_at": "2025-07-25",
+    "model_version": "demo-v1",
+    "result": {
+      "recovery_pct": 40.8,
+      "gait_speed": 1.208
+    }
+  },
+  {
+    "patient_ref": 2,
+    "created_at": "2025-08-01",
+    "model_version": "demo-v1",
+    "result": {
+      "recovery_pct": 43.91,
+      "gait_speed": 1.239
+    }
+  },
+  {
+    "patient_ref": 2,
+    "created_at": "2025-08-08",
+    "model_version": "demo-v1",
+    "result": {
+      "recovery_pct": 48.29,
+      "gait_speed": 1.283
+    }
+  },
+  {
+    "patient_ref": 2,
+    "created_at": "2025-08-15",
+    "model_version": "demo-v1",
+    "result": {
+      "recovery_pct": 52.88,
+      "gait_speed": 1.329
+    }
+  },
+  {
+    "patient_ref": 3,
+    "created_at": "2025-07-25",
+    "model_version": "demo-v1",
+    "result": {
+      "recovery_pct": 41.31,
+      "gait_speed": 1.213
+    }
+  },
+  {
+    "patient_ref": 3,
+    "created_at": "2025-08-01",
+    "model_version": "demo-v1",
+    "result": {
+      "recovery_pct": 44.66,
+      "gait_speed": 1.247
+    }
+  },
+  {
+    "patient_ref": 3,
+    "created_at": "2025-08-08",
+    "model_version": "demo-v1",
+    "result": {
+      "recovery_pct": 50.97,
+      "gait_speed": 1.31
+    }
+  },
+  {
+    "patient_ref": 3,
+    "created_at": "2025-08-15",
+    "model_version": "demo-v1",
+    "result": {
+      "recovery_pct": 53.77,
+      "gait_speed": 1.338
+    }
+  }
+]
